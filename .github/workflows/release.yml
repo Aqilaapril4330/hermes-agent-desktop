@@ -192,7 +192,7 @@ jobs:
       - name: Generate winget manifests
         env:
           VERSION: ${{ needs.prepare.outputs.version }}
-          PUBLISH_OWNER: fathah
+          PUBLISH_OWNER: MDJTK
         run: node scripts/generate-winget-manifests.mjs
 
       - name: Upload winget manifests artifact
